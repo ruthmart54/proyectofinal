@@ -1,0 +1,46 @@
+h1{
+    /*fonts: "Monserrat";*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(116, 15, 124);
+    height: 50px;
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(96, 82, 150);
+
+}
+
+
+.segundo{
+    color: rgb(120, 11, 11);
+}
+#tercero{
+    color: rgb(110, 0, 184);
+}
+
+p strong{
+    color: rgb(241, 231, 238);
+}
+
+.fuerte{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    margin: 1px;
+    border: 1px solid rgb(19, 18, 17);
+    padding: 15px;
+    background: rgb(194, 120, 178);
+    color: black;
+}
+
+nav{
+    text-align: center;
+}
